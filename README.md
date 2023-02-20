@@ -1,7 +1,7 @@
 # Hello Im Mohammad Shiyyab im 26 yo, I graduated from yarmook university as computer information system and now im trainee in ltuc as software developer
 
 What i **learned** today>
-
+bdjhkgjdkaaaggajhgjhkagjkagasgasjgajkgajaaakgagaja
 - How to solve the tasks
 1. We need a time management process
 2. We need to understand the required project
