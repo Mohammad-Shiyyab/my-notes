@@ -1,5 +1,7 @@
 # Hello Im Mohammad Shiyyab im 26 yo, I graduated from yarmook university as computer information system and now im trainee in ltuc as software developer
 
+>[X] Software Developer
+
 What i **learned** today>
 bdjhkgjdkaaaggajhgjhkagjkagasgasjgajkgajaaakgagaja
 - How to solve the tasks
@@ -9,9 +11,12 @@ bdjhkgjdkaaaggajhgjhkagjkagasgasjgajkgajaaakgagaja
 1. We need to make repo
 2. clone the repo
 3. Open project use terminal (code .)
-4. Use A S P (add , commit , push)
+4. Use A S P (`add` , `commit` , `push`)
 
 [My GitHub Account](https://github.com/Mohammad-Shiyyab)
+
+![LTUC](https://www.shutterstock.com/image-photo/software-source-code-programming-on-260nw-634574354.jpg)
+
 
 
 
